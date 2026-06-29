@@ -144,7 +144,9 @@ This project aims to:
 **Sandesh Arsud**
 
 📧 Email: **contact.arsudsandesh@gmail.com**
+
 💼 LinkedIn: **https://www.linkedin.com/in/sandesharsud**
+
 🌐 Portfolio: **https://arsudsandesh97.github.io**
 
 
